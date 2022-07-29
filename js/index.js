@@ -1,3 +1,5 @@
-const saludo = (name) => console.log("hola ", name)
+const saludo = (name) => {
+return `Bienvenido ${name}!`
+}
 
-saludo("Andres")
+console.log(saludo("Andres"))
