@@ -1,1 +1,3 @@
-andres
+const obj = {
+    nombre
+}
